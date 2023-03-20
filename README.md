@@ -1,50 +1,68 @@
+                                                                  /\_/\____,
+                                                        ,___/\_/\ \  ~     /
+                                                        \     ~  \ )   XXX
+                                                          XXX     /    /\_/\___,
+                                                             \o-o/-o-o/   ~    /
+                                                              ) /     \    XXX
+                                                             _|    / \ \_/
+                                                          ,-/   _  \_/   \
+                                                         / (   /____,__|  )
+                                                        (  |_ (    )  \) _|
+                                                       _/ _)   \   \__/   (_
+                                                      (,-(,(,(,/      \,),),)
 
 cerberus.rvn@protonmail.com
 
-PGP: 1CF8 411C B678 1003 E030 C3CE 93A8 0C69 9514 51AC
+[Twitter](https://twitter.com/cerberus_rvn) | [Substack](https://cerb.substack.com?sd=pf)
 
+PGP: 1CF8 411C B678 1003 E030 C3CE 93A8 0C69 9514 51AC
 
 Internaut | Cypherpunk | Gamer | Dad
 
-Donations to support my work will be much appreciated!
 
-RVN: RCg4L8QaFafrvSxJLfejwPLAdNBDjKviyD
+--- 
 
-BSV: 14HqWXgLF7AgqQQAymjDXwFy8awsfgrFUd
-
-XMR: 47fq6pYRfDyjWVdRiNjhkDQ81RqwLgLqsggN4Bxb6LPGbttRwGetq9uXi7q7jemhhf5b21Z3jA1daB8uabVPSbxwMb9WJ68
-
-DOGE: DKqiErvF5kDfTKcmfLwmszw6SYPTMPQt8g
-
-~
-cerberus.
-
-<div id="badges">
-  <a href="https://twitter.com/cerberus_rvn">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<h1>
-  W00F!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-                
  <div align="center">
   <img src="https://ravencoinipfs-gateway.com/ipfs/QmTxasznoKWAKSXasPd1j9ALvpG4LyNYdU8os7RafesnTz" width="512" height="512"/>
 </div>               
 
-                            /\_/\____,
-                  ,___/\_/\ \  ~     /
-                  \     ~  \ )   XXX
-                    XXX     /    /\_/\___,
-                       \o-o/-o-o/   ~    /
-                        ) /     \    XXX
-                       _|    / \ \_/
-                    ,-/   _  \_/   \
-                   / (   /____,__|  )
-                  (  |_ (    )  \) _|
-                 _/ _)   \   \__/   (_
-                (,-(,(,(,/      \,),),)
+---
 
-<img src="https://komarev.com/ghpvc/?username=cerberuscx&style=flat-square&color=blue" alt=""/>
+## About Me
+
+I'm an internaut, cypherpunk, gamer, and a dad. I love exploring new technologies and building cool stuff.
+
+## Projects
+
+- **URGURU ITS:**
+  - Website: [URguru Information Technology Solutions](https://urguru.me/)
+  
+- **URGURU Gaming:**
+  - Website: [URguru Gaming Australia](https://urguru.net/)
+  
+- **The DROP!:**
+  - Website: [Survive The DROP!](https://survivethedrop.com/)
+  
+- **RBHZ:**
+  - Website: [RVN Bounty HunterZ](https://bountyhunterz.com/)
+  
+- **Mellori:**
+  - Website: [Mellori.io](https://www.mellori.io/)
+
+## Donations
+
+If you find my work useful, please consider making a donation to support me.
+
+- Bitcoin: `bc1q4am4qua6zdcfrlvgkgtedshlw5wf5c6n700xxh`
+- RVN: `RCg4L8QaFafrvSxJLfejwPLAdNBDjKviyD`
+- ETC: `0x1bd52D49cA7373105AA3865C8d78a483353E0E4e`
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU3NmYzYzhlYzEwYTMwNDdlZTUwM2RkOGQwNDAyOTQ1MDEzNjE5YyZjdD1n/CXZJxiQQIBk6IRWU6x/giphy-downsized.gif"/>
+  <h1>W00F!</h1>
+</div>
+
+![Profile views](https://komarev.com/ghpvc/?username=cerberuscx&style=flat-square&color=blue)
+
