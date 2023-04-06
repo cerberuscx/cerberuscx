@@ -23,7 +23,7 @@ Internaut | Cypherpunk | Gamer | Dad
 --- 
 
  <div align="center">
-  <img src="https://ravencoinipfs-gateway.com/ipfs/QmTxasznoKWAKSXasPd1j9ALvpG4LyNYdU8os7RafesnTz" width="512" height="512"/>
+  <img src="https://ipfs.chaintek.net/ipfs/QmTxasznoKWAKSXasPd1j9ALvpG4LyNYdU8os7RafesnTz" width="512" height="512"/>
 </div>               
 
 ---
