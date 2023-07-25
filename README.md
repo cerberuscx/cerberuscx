@@ -40,10 +40,10 @@ I'm an internaut, cypherpunk, gamer, and a dad. I love exploring new technologie
 - **URGURU Gaming:**
   - Website: [URguru Gaming Australia](https://urguru.net/)
   
-- **The DROP!:**
+- **The DROP!:** [INACTIVE]
   - Website: [Survive The DROP!](https://survivethedrop.com/)
   
-- **RBHZ:**
+- **RBHZ:** [CANCELLED]
   - Website: [RVN Bounty HunterZ](https://bountyhunterz.com/)
   
 - **Mellori:**
@@ -63,6 +63,4 @@ If you find my work useful, please consider making a donation to support me.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU3NmYzYzhlYzEwYTMwNDdlZTUwM2RkOGQwNDAyOTQ1MDEzNjE5YyZjdD1n/CXZJxiQQIBk6IRWU6x/giphy-downsized.gif"/>
   <h1>W00F!</h1>
 </div>
-
-![Profile views](https://komarev.com/ghpvc/?username=cerberuscx&style=flat-square&color=blue)
 
