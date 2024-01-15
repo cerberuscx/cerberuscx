@@ -47,7 +47,7 @@ I'm an internaut, cypherpunk, gamer, and a dad. I love exploring new technologie
   - Website: [RVN Bounty HunterZ](https://bountyhunterz.com/)
   
 - **Mellori:**
-  - Website: [Mellori.io](https://www.mellori.io/)
+  - Website: [Mellori.tech](https://www.mellori.tech/)
 
 ## Donations
 
