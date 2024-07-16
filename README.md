@@ -13,7 +13,7 @@
 
 cerberus.rvn@protonmail.com
 
-[Twitter](https://twitter.com/cerberus_rvn) | [Substack](https://cerb.substack.com?sd=pf)
+[Twitter](https://twitter.com/pow_cerberus) | [Substack](https://cerb.substack.com?sd=pf)
 
 PGP: 1CF8 411C B678 1003 E030 C3CE 93A8 0C69 9514 51AC
 
@@ -33,15 +33,6 @@ Internaut | Cypherpunk | Gamer | Dad
 I'm an internaut, cypherpunk, gamer, and a dad. I love exploring new technologies and building cool stuff.
 
 ## Projects
-
-- **URGURU ITS:**
-  - Website: [URguru Information Technology Solutions](https://urguru.me/)
-  
-- **URGURU Gaming:**
-  - Website: [URguru Gaming Australia](https://urguru.net/)
-  
-- **The DROP!:** [INACTIVE]
-  - Website: [Survive The DROP!](https://survivethedrop.com/)
   
 - **RBHZ:** [CANCELLED]
   - Website: [RVN Bounty HunterZ](https://bountyhunterz.com/)
